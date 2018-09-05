@@ -1,5 +1,7 @@
 FROM debian:buster-slim
 
+LABEL maintainer="david.rigaudie@itarverne.com"
+
 ENV GID 33411
 ENV UID 33411
 
